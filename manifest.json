@@ -1,0 +1,15 @@
+{
+  "package": "Alpha108_github_actions_satpack_v0",
+  "created_at": "2026-06-08T09:10:44+00:00",
+  "purpose": "GitHub Actions pack for naked CNF SAT/DRAT proof attempt of alpha(T19_8)<=108.",
+  "main_result": "Package generated; no UNSAT proof included.",
+  "files": [
+    "README.md",
+    "README_GITHUB_ACTIONS.md",
+    "docs/scientific_status.md",
+    "scripts/generate_alpha108_cnf.py",
+    "scripts/verify_alpha108_cnf.py",
+    "scripts/package_alpha108_results.py",
+    ".github/workflows/run_alpha108_sat.yml"
+  ]
+}
